@@ -1,1 +1,3 @@
+# Object Detection and Segregation Using R-CNN
 
+The project employs a Region-based Convolutional Neural Network for precise identification and categorization of objects in images. It begins by proposing regions through selective search and subsequently utilizes a pre-trained CNN for feature extraction. Support vector machines classify these regions, and bounding box regression refines object localization. This approach ensures accurate detection and segregation of objects in diverse scenarios. Applications include surveillance, security, and automation industries, providing a robust solution for computer vision tasks, such as autonomous vehicles and industrial automation.
